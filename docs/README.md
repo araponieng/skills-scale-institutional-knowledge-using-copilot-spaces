@@ -27,7 +27,7 @@ OctoAcme follows a **customer-first, iterative delivery** approach that emphasiz
 2. **Planning**: Scope work, identify resources and dependencies, create release plan
 3. **Execution**: Build, test, review, and iterate on deliverables
 4. **Release**: Deploy to production, verify functionality, and announce to stakeholders
-5. **Retrospective**: Capture learnings and identify continuous improvement opportunities
+5. **Close & Retrospective**: Capture learnings and identify continuous improvement opportunities
 
 ### Key Artifacts
 - **Project Charter / One-pager**: Problem statement, goals, and success metrics
@@ -38,9 +38,8 @@ OctoAcme follows a **customer-first, iterative delivery** approach that emphasiz
 - **Retrospective Notes**: Learnings and action items for improvement
 
 ### Communication Cadence
-- **Daily standups**: 15-minute sync on progress, blockers, and dependencies
 - **Weekly PM/PdM sync**: Alignment on priorities and risk management
-- **Twice-weekly team standups**: Regular delivery team coordination
+- **Twice-weekly standups for delivery team**: 15-minute sync on progress, blockers, and dependencies (or as agreed)
 - **Monthly stakeholder updates**: Progress reports and milestone reviews
 - **Ad-hoc escalations**: As needed for critical issues and blockers
 
