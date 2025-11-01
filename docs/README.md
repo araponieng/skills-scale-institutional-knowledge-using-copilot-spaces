@@ -55,13 +55,15 @@ Access detailed guidance for each phase of the project lifecycle:
 - [**Release & Deployment Guide**](octoacme-release-and-deployment.md) - Standardized release processes, deployment checklists, and rollback procedures
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and converting them into actionable improvements
 - [**Roles and Personas**](octoacme-roles-and-personas.md) - Detailed role definitions, responsibilities, and communication patterns
+- [**Role Onboarding Checklist**](role-onboarding-checklist.md) - Step-by-step guide for onboarding team members and clarifying role assignments
 
 ## Getting Started
 
 ### For New Team Members
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach
 2. Review [Roles and Personas](octoacme-roles-and-personas.md) to understand your role and how you interact with others
-3. Familiarize yourself with the full project lifecycle by reading through the process documents in order
+3. Complete the [Role Onboarding Checklist](role-onboarding-checklist.md) to ensure you have everything you need
+4. Familiarize yourself with the full project lifecycle by reading through the process documents in order
 
 ### For Project Managers
 - Use the [Project Initiation Guide](octoacme-project-initiation.md) when starting new projects
